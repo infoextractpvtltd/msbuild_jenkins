@@ -1,0 +1,13 @@
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+D:\DevOps\Jenkins_DotNET\ConsoleApplication\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
